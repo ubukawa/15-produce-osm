@@ -26,6 +26,6 @@
     "pg": "^7.8.0",
     "prettysize": "^2.0.0",
     "winston": "^3.2.0",
-    "winston-daily-rotate-file": "^3.6.0",
+    "winston-daily-rotate-file": "^3.6.0"
   }
 }
