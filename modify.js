@@ -592,7 +592,7 @@ const lut = {
     maxzoom: 15
     }
     switch (f.properties.z_order) {
-      case '5':
+      case 5:
         f.tippecanoe.minzoom = 7
         break
       default:
